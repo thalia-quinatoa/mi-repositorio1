@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <title>Sistema de Inventario</title>
     <style>
+
+
+
         body { font-family: Arial, sans-serif; padding: 20px; }
         table { border-collapse: collapse; width: 100%; }
         th, td { padding: 10px; border: 1px solid #ccc; text-align: left; }
